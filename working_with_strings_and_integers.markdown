@@ -11,7 +11,7 @@ If you have the strings `"First"` and `"Last"` in the following variables:
 ```ruby
 f = "First"
 l = "Last"
-```
+```  
 
 Use *only* the "string concatenation" technique to complete the following:
 
